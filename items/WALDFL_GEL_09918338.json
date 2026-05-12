@@ -1,0 +1,10 @@
+{
+  "internalname": "WALDFL_GEL_09918338",
+  "displayname": "Waldflügel",
+  "material": "ELYTRA",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#871C0E\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"W\",underlined:0b},{bold:1b,color:\"#A93511\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"a\",underlined:0b},{bold:1b,color:\"#CA4F13\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#EC6816\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"d\",underlined:0b},{bold:1b,color:\"#ED7116\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"f\",underlined:0b},{bold:1b,color:\"#EF7A15\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b},{bold:1b,color:\"#F08315\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ü\",underlined:0b},{bold:1b,color:\"#F59227\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"g\",underlined:0b},{bold:1b,color:\"#FAA039\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b},{bold:1b,color:\"#FFAF4B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"l\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:mending\":1,\"minecraft:unbreaking\":5}},count:1,id:\"minecraft:elytra\"}",
+  "capturedAt": "2026-05-12T21:38:44.591017Z"
+}
