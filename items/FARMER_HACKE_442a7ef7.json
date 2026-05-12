@@ -1,0 +1,10 @@
+{
+  "internalname": "FARMER_HACKE_442a7ef7",
+  "displayname": "Farmer Hacke ",
+  "material": "DIAMOND_HOE",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"green\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Farmer Hacke \",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:fire_aspect\":2,\"minecraft:fortune\":6,\"minecraft:sharpness\":7,\"minecraft:unbreaking\":10}},count:1,id:\"minecraft:diamond_hoe\"}",
+  "capturedAt": "2026-05-12T22:26:44.745802200Z"
+}
