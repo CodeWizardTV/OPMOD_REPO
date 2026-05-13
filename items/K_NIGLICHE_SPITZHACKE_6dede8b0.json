@@ -1,0 +1,17 @@
+{
+  "internalname": "K_NIGLICHE_SPITZHACKE_6dede8b0",
+  "displayname": "Königliche Spitzhacke",
+  "material": "DIAMOND_PICKAXE",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [
+    "",
+    "⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱",
+    "• GEBURTSTAGS OUTFIT (6/7) •",
+    "⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱",
+    "",
+    "(geklaut aus der Schatzkammer des OPKönigs)"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"yellow\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Königliche \",underlined:0b},{bold:1b,color:\"dark_red\",italic:0b,text:\"Spitzhacke\"}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:efficiency\":8,\"minecraft:fortune\":3,\"minecraft:mending\":1,\"minecraft:unbreaking\":10},\"minecraft:lore\":[{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"• \",underlined:0b},{bold:1b,color:\"white\",italic:0b,text:\"GEBURTSTAGS OUTFIT \"},{bold:0b,color:\"gray\",italic:0b,text:\"(\"},{color:\"green\",italic:0b,text:\"6\"},{color:\"gray\",italic:0b,text:\"/7) \"},{color:\"dark_gray\",italic:0b,text:\"•\"}],text:\"\"},{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱⊰⊱\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"(geklaut aus der Schatzkammer des OPKönigs)\",underlined:0b}],text:\"\"}]},count:1,id:\"minecraft:diamond_pickaxe\"}",
+  "capturedAt": "2026-05-13T13:37:42.463286400Z"
+}
