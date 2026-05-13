@@ -1,0 +1,13 @@
+{
+  "internalname": "DIAMOND_HELMET_aad65f49",
+  "displayname": "Diamond Helmet",
+  "material": "DIAMOND_HELMET",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [
+    "--------------------",
+    "Osterevent - 2021"
+  ],
+  "nbttag": "{components:{\"minecraft:enchantments\":{\"minecraft:protection\":3,\"minecraft:unbreaking\":3},\"minecraft:lore\":[{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:1b,text:\"--------------------\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gold\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Osterevent \",underlined:0b},{color:\"gray\",italic:0b,text:\"- \"},{color:\"yellow\",italic:0b,text:\"2021\"}],text:\"\"}]},count:1,id:\"minecraft:diamond_helmet\"}",
+  "capturedAt": "2026-05-13T15:06:30.066943300Z"
+}

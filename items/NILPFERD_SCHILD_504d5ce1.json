@@ -1,0 +1,10 @@
+{
+  "internalname": "NILPFERD_SCHILD_504d5ce1",
+  "displayname": "Nilpferd Schild",
+  "material": "SHIELD",
+  "cmd": 10124,
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:custom_model_data\":{floats:[10124.0f]},\"minecraft:custom_name\":{extra:[{bold:0b,color:\"yellow\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Nilpferd Schild\",underlined:0b}],text:\"\"}},count:1,id:\"minecraft:shield\"}",
+  "capturedAt": "2026-05-13T14:40:32.715250100Z"
+}

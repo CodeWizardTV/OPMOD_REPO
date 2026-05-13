@@ -1,0 +1,20 @@
+{
+  "internalname": "KESSEL_DES_KOSMOS_48717089",
+  "displayname": "Kessel des Kosmos",
+  "material": "DECORATED_POT",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [
+    "",
+    "Halten sie sich gerade ernsthaft",
+    "am Kessel des Kosmos fest?",
+    "",
+    "Signiert von Doctor Strange am 16.09.2024",
+    "Signiert von Tony Stark am 16.09.2024",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Selten"
+  ],
+  "nbttag": "{components:{\"minecraft:custom_name\":{extra:[{bold:1b,color:\"dark_red\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Kessel des \",underlined:0b},{bold:1b,color:\"dark_gray\",italic:0b,text:\"Kosmos\"}],text:\"\"},\"minecraft:damage\":0,\"minecraft:enchantments\":{\"minecraft:infinity\":1},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"red\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"Halten sie sich gerade ernsthaft\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"red\",italic:1b,obfuscated:0b,strikethrough:0b,text:\"am Kessel des Kosmos fest?\",underlined:0b}],text:\"\"},\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"Doctor Strange \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"16.09.2024\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"Tony Stark \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"16.09.2024\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"gold\",italic:0b,text:\"Selten\"}],text:\"\"}]},count:1,id:\"minecraft:decorated_pot\"}",
+  "capturedAt": "2026-05-13T14:59:30.464359300Z"
+}

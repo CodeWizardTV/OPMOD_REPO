@@ -1,0 +1,13 @@
+{
+  "internalname": "SKYGUYTV_S_HEAD_263793aa",
+  "displayname": "SkyGuyTV\u0027s Head",
+  "material": "PLAYER_HEAD",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [
+    "",
+    "Signiert von SkyGuyTV am 23.10.2024"
+  ],
+  "nbttag": "{components:{\"minecraft:damage\":0,\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Signiert von \",underlined:0b},{color:\"red\",italic:0b,text:\"SkyGuyTV \"},{color:\"gray\",italic:0b,text:\"am \"},{color:\"aqua\",italic:0b,text:\"23.10.2024\"}],text:\"\"}],\"minecraft:profile\":{id:[I;-2078611242,245385113,-1784565152,1841024882],name:\"SkyGuyTV\",properties:[{name:\"textures\",signature:\"NFbYtP7jUfCippS/+9vxYb+xhhLiTIwDCPx3vYfVOfNQwvzDNXjAoPmnsOk1qg9VJtMfUi6JvKwHs2YeijggpJvoLkhfTuW2xEhlWPRlCr0O3mLJHxJmo7zO2BH6FANcYS8hmXSx6vsDwcUIY6D/n0sV43h8Q2WpwN581WOxY21XHLgw3ljDgUtG0//Dq3OdXylFM1FVyoVufWENNMExW1Gcj9ReCzy+p1jsHbJ8kHUf3yJH5ORa0uTLiMIqhRNlj3VuqsS5EqmuU52UPvBG/LdPgiYEbZ1cHYLLhINRu0+su785l2w4njyrpE9b8NkJ2682DatBBbQ6YPZ5F9RaBQ1oaMxSStPeqnxf8QrzcjFzD13doR0pqXeqLoBbnnHMxE1+8q/oX/bV1DaG+1h1SGDn2PEspw4Q4pd6ZOwQK7vv97tnz9/BUvuZwcc16cXt88+Ru3DOTVI9glkMQ8Q+Iupw89l8SaO1SPsYu2gwFXxM/nu8XO4HDTvdkRiLUzWnll++XifkqknhH/OTEUBbXdMpfFcpDQiqBhnw9KqdYPt24KMJmNsoJH2VQErOWDJIXGW4hK1iEfGafDfKUNOjYAdeP8mAPUFd5JPPceRid0l9d7KEUpMW0jZmf6CO7d1VTVaqDq9/Mt8Adl1Q0uB6CEXMIfxVSqiu3cUoPutqvFg\u003d\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyNTgwMDk5OTc3MCwKICAicHJvZmlsZUlkIiA6ICI4NDFhZThkNjBlYTA0Nzk5OTVhMWIyNjA2ZGJiY2Y3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lHdXlUViIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYmM0MGM4OWNmMzBhYmEyODhkMGI4OGEwMGJiOTMxODBjZjc1MTVmOTVhODk1NTM2ZWVjYWUyM2Y4ZjRkOTI3IgogICAgfQogIH0KfQ\u003d\u003d\"}]}},count:1,id:\"minecraft:player_head\"}",
+  "capturedAt": "2026-05-13T14:55:50.313615Z"
+}
