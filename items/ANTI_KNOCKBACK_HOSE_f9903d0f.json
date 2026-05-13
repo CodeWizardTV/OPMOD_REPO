@@ -1,0 +1,15 @@
+{
+  "internalname": "ANTI_KNOCKBACK_HOSE_f9903d0f",
+  "displayname": "Anti-Knockback Hose",
+  "material": "DIAMOND_LEGGINGS",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [
+    "",
+    "➥ Effekt: +25% Rückstoß Resistenz",
+    "",
+    "➥ OP Pass Belohnung der 17. Season"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[{amount:6.0d,id:\"minecraft:63f9d88c-3537-4d57-933d-2449a8dd2ca7\",operation:\"add_value\",slot:\"legs\",type:\"minecraft:armor\"},{amount:2.0d,id:\"minecraft:91511740-8293-43f2-a587-4dbc0bfc428a\",operation:\"add_value\",slot:\"legs\",type:\"minecraft:armor_toughness\"},{amount:0.25d,id:\"minecraft:b72a6a27-9b9a-4399-b2c3-9dad083370ba\",operation:\"add_multiplied_base\",slot:\"legs\",type:\"minecraft:knockback_resistance\"}],\"minecraft:custom_name\":{extra:[{bold:1b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Anti-Knockback Hose\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:mending\":1,\"minecraft:protection\":5,\"minecraft:unbreaking\":4},\"minecraft:lore\":[\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{color:\"gray\",italic:0b,text:\"Effekt: \"},{color:\"green\",italic:0b,text:\"+25% Rückstoß Resistenz\"}],text:\"\"},\"\",{extra:[{bold:0b,color:\"dark_gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"➥ \",underlined:0b},{bold:1b,color:\"white\",italic:0b,text:\"OP Pass \"},{bold:0b,color:\"gray\",italic:0b,text:\"Belohnung der \"},{color:\"aqua\",italic:0b,text:\"17. Season\"}],text:\"\"}]},count:1,id:\"minecraft:diamond_leggings\"}",
+  "capturedAt": "2026-05-13T11:08:49.863477300Z"
+}

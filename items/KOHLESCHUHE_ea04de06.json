@@ -1,0 +1,16 @@
+{
+  "internalname": "KOHLESCHUHE_ea04de06",
+  "displayname": "Kohleschuhe",
+  "material": "IRON_BOOTS",
+  "cmd": 10130,
+  "damage": 0,
+  "lore": [
+    "",
+    "Kohlekollektion (9/13)",
+    "",
+    "Gewinntyp » Item",
+    "Seltenheit » Unbezahlbar"
+  ],
+  "nbttag": "{components:{\"minecraft:attribute_modifiers\":[{amount:3.0d,id:\"minecraft:2d94d025-f09d-4937-bc5d-438fd0875d4c\",operation:\"add_value\",slot:\"feet\",type:\"minecraft:armor\"},{amount:3.0d,id:\"minecraft:ad07516a-c1cd-4916-b2ea-c94c48983733\",operation:\"add_value\",slot:\"feet\",type:\"minecraft:armor_toughness\"},{amount:0.1d,id:\"minecraft:478b0ef0-dad4-4242-b1f9-df4e051e0ae3\",operation:\"add_value\",slot:\"feet\",type:\"minecraft:knockback_resistance\"}],\"minecraft:custom_data\":{itemsadder:{id:\"coal_boots\",namespace:\"_opsucht_sets\"}},\"minecraft:custom_model_data\":{floats:[10130.0f]},\"minecraft:custom_name\":{extra:[{bold:1b,color:\"#3B3B3B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Ko\",underlined:0b},{bold:1b,color:\"#3B3B3B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"hl\",underlined:0b},{bold:1b,color:\"#494949\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"es\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ch\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"uh\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"e\",underlined:0b}],text:\"\"},\"minecraft:enchantments\":{\"minecraft:feather_falling\":5,\"minecraft:fire_protection\":6,\"minecraft:mending\":1,\"minecraft:protection\":6,\"minecraft:unbreaking\":8},\"minecraft:equippable\":{asset_id:\"_opsucht_sets:coal_armor\",slot:\"feet\"},\"minecraft:lore\":[\"\",{extra:[{bold:1b,color:\"#3B3B3B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Ko\",underlined:0b},{bold:1b,color:\"#3B3B3B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"hl\",underlined:0b},{bold:1b,color:\"#3B3B3B\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ek\",underlined:0b},{bold:1b,color:\"#444444\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"ol\",underlined:0b},{bold:1b,color:\"#4D4D4D\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"le\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"kt\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"io\",underlined:0b},{bold:1b,color:\"#565656\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"n \",underlined:0b},{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"(\",underlined:0b},{color:\"green\",italic:0b,text:\"9\"},{color:\"gray\",italic:0b,text:\"/13)\"}],text:\"\"},{extra:[{bold:0b,color:\"white\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"\",underlined:0b}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Gewinntyp \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Item\"}],text:\"\"},{extra:[{bold:0b,color:\"gray\",italic:0b,obfuscated:0b,strikethrough:0b,text:\"Seltenheit \",underlined:0b},{color:\"dark_gray\",italic:0b,text:\"» \"},{color:\"aqua\",italic:0b,text:\"Unbezahlbar\"}],text:\"\"}],\"minecraft:max_damage\":481},count:1,id:\"minecraft:iron_boots\"}",
+  "capturedAt": "2026-05-13T11:11:13.015058400Z"
+}

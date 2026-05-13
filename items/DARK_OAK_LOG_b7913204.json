@@ -1,0 +1,10 @@
+{
+  "internalname": "DARK_OAK_LOG_b7913204",
+  "displayname": "Dark Oak Log",
+  "material": "DARK_OAK_LOG",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:damage\":0},count:1,id:\"minecraft:dark_oak_log\"}",
+  "capturedAt": "2026-05-13T11:06:22.914022700Z"
+}
