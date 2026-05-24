@@ -1,0 +1,40 @@
+name: Item Webhook
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'items/**.json'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Send Discord webhooks
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_ITEM_WEBHOOK }}
+        run: |
+          git diff --name-status HEAD~1 HEAD -- 'items/*.json' | while read -r status file; do
+            [ -z "$file" ] && continue
+            echo "[$status] $file"
+
+            if [ "$status" = "D" ]; then
+              # File deleted: restore from previous commit into a temp file
+              TMPFILE=$(mktemp --suffix=.json)
+              git show HEAD~1:"$file" > "$TMPFILE"
+              node .github/scripts/send-item-webhook.mjs "$TMPFILE" D
+              rm -f "$TMPFILE"
+            else
+              node .github/scripts/send-item-webhook.mjs "$file" "$status"
+            fi
+
+            sleep 1
+          done
