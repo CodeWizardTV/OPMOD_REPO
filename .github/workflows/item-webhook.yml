@@ -22,12 +22,22 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_ITEM_WEBHOOK }}
         run: |
-          git diff --name-status HEAD~1 HEAD -- 'items/*.json' | while read -r status file; do
+          git diff --name-status HEAD~1 HEAD -- 'items/*.json' | while IFS=$'\t' read -r status old new; do
+            # R090 old.json new.json  →  status=R090, old=alter Pfad, new=neuer Pfad
+            # A/M/D foo.json          →  status=A/M/D, old=Pfad,      new=leer
+
+            # Rename: treat new file as Added
+            if [[ "$status" == R* ]]; then
+              file="$new"
+              status="A"
+            else
+              file="$old"
+            fi
+
             [ -z "$file" ] && continue
             echo "[$status] $file"
 
             if [ "$status" = "D" ]; then
-              # File deleted: restore from previous commit into a temp file
               TMPFILE=$(mktemp --suffix=.json)
               git show HEAD~1:"$file" > "$TMPFILE"
               node .github/scripts/send-item-webhook.mjs "$TMPFILE" D
