@@ -1,0 +1,10 @@
+{
+  "internalname": "DARK_OAK_SAPLING_9ded4816",
+  "displayname": "Dark Oak Sapling",
+  "material": "DARK_OAK_SAPLING",
+  "cmd": 0,
+  "damage": 0,
+  "lore": [],
+  "nbttag": "{components:{\"minecraft:damage\":0},count:1,id:\"minecraft:dark_oak_sapling\"}",
+  "capturedAt": "2026-05-24T11:59:05.556732500Z"
+}
