@@ -21,6 +21,6 @@
     { "id": 100, "label": "Zufällig",      "material": "ender_pearl",  "labelColor": "#AA88FF", "command": "rtp confirm",                  "renderMode": "FLAT_ITEM", "isPinned": true, "price": 0 },
     { "id": 101, "label": "Seelensandtal", "material": "soul_sand",    "labelColor": "#6B5A4E", "command": "rtp soul_sand_valley confirm", "price": 50000 },
     { "id": 102, "label": "Karmesinwald",  "material": "crimson_stem", "labelColor": "#CC3333", "command": "rtp crimson_forest confirm",   "price": 50000 },
-    { "id": 103, "label": "Wirrwald",      "material": "warped_stem",  "labelColor": "#33BBAA", "command": "rtp warped_forest confirm",    "price": 50000 }
+    { "id": 103, "label": "Wirrwald",      "material": "warped_stem",  "labelColor": "#33BBAA", "command": "rtp warped_forest confirm",    "price": 50000 },
   ]
 }
