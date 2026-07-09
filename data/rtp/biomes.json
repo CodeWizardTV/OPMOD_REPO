@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "farm": [
+    { "id": 0,  "label": "Zufällig",          "material": "ender_pearl",        "labelColor": "#AA88FF", "command": "rtp confirm",                        "renderMode": "FLAT_ITEM", "isPinned": true, "price": 0 },
+    { "id": 1,  "label": "Blasser Garten",    "material": "pale_oak_log",       "labelColor": "#D4C9B0", "command": "rtp pale_garden confirm",            "price": 25000 },
+    { "id": 2,  "label": "Dunkler Wald",      "material": "dark_oak_log",       "labelColor": "#D4C9B0", "command": "rtp dark_forest confirm",            "price": 25000 },
+    { "id": 3,  "label": "Birken-Urwald",     "material": "birch_log",          "labelColor": "#E8DDB5", "command": "rtp old_growth_birch_forest confirm", "price": 25000 },
+    { "id": 4,  "label": "Kiefern-Urtaiga",   "material": "spruce_log",         "labelColor": "#6B4226", "command": "rtp old_growth_pine_taiga confirm",   "price": 25000 },
+    { "id": 5,  "label": "Dschungel",         "material": "jungle_log",         "labelColor": "#3A9E3A", "command": "rtp jungle confirm",                 "price": 25000 },
+    { "id": 6,  "label": "Kirschberghain",    "material": "cherry_log",         "labelColor": "#FFAABB", "command": "rtp cherry_grove confirm",           "price": 50000 },
+    { "id": 7,  "label": "Savanne",           "material": "acacia_log",         "labelColor": "#D2691E", "command": "rtp savanna confirm",                "price": 30000 },
+    { "id": 8,  "label": "Mangrovensumpf",    "material": "mangrove_log",       "labelColor": "#8B2020", "command": "rtp mangrove_swamp confirm",         "price": 40000 },
+    { "id": 9,  "label": "Wüste",             "material": "sand",               "labelColor": "#D2B48C", "command": "rtp desert confirm",                 "price": 25000 },
+    { "id": 10, "label": "Tafelberge",        "material": "terracotta",         "labelColor": "#CC5500", "command": "rtp badlands confirm",               "price": 50000 },
+    { "id": 11, "label": "Verschneite Ebene", "material": "snow_block",         "labelColor": "#CCEEFF", "command": "rtp snowy_plains confirm",           "price": 45000 },
+    { "id": 12, "label": "Tiefsee",           "material": "suspicious_gravel",  "labelColor": "#336699", "command": "rtp deep_ocean confirm",             "price": 25000 },
+    { "id": 13, "label": "Warmer Ozean",      "material": "tube_coral_block",   "labelColor": "#0099CC", "command": "rtp warm_ocean confirm",             "price": 50000 },
+    { "id": 14, "label": "Pilzland",          "material": "red_mushroom_block", "labelColor": "#0099CC", "command": "rtp mushroom_fields confirm",        "price": 250000 }
+  ],
+  "nether": [
+    { "id": 100, "label": "Zufällig",      "material": "ender_pearl",  "labelColor": "#AA88FF", "command": "rtp confirm",                  "renderMode": "FLAT_ITEM", "isPinned": true, "price": 0 },
+    { "id": 101, "label": "Seelensandtal", "material": "soul_sand",    "labelColor": "#6B5A4E", "command": "rtp soul_sand_valley confirm", "price": 50000 },
+    { "id": 102, "label": "Karmesinwald",  "material": "crimson_stem", "labelColor": "#CC3333", "command": "rtp crimson_forest confirm",   "price": 50000 },
+    { "id": 103, "label": "Wirrwald",      "material": "warped_stem",  "labelColor": "#33BBAA", "command": "rtp warped_forest confirm",    "price": 50000 }
+  ]
+}
